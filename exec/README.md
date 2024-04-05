@@ -1,3 +1,13 @@
+### mariaDB 비밀번호 설정하기
+
+```bash
+docker exec -it mariadb bin/bash
+mariadb -u root -p
+use mysql
+
+GRANT ALL PRIVILEGES ON *.* TO 'root'@'%' IDENTIFIED BY '비밀번호';
+```
+
 ### Redis에 캐싱된 키 지우기
 
 ```redis
