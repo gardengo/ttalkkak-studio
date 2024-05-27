@@ -158,7 +158,11 @@
 
 </div>
 
-<br />
+## 아키텍처 다이어그램
+
+<img src="./gif/아키텍처%20다이어그램.png" alt="아키텍처"/>
+
+<br/>
 
 ## 주요 기능
 
@@ -211,17 +215,10 @@
 
 ![store](./gif/스토어.gif)
 
-## 아키텍처 다이어그램
-
-<img src="./gif/아키텍처%20다이어그램.png" alt="아키텍처" width="600px"/>
 
 ## ERD
 
 <img src="./gif/ERD.png" alt="ERD" width="600px" />
-
-## 와이어프레임
-
-<img src="./gif/와이어프레임.png" alt="와이어프레임" width="600px" height="600px" />
 
 ## 시퀀스 다이어그램
 
@@ -240,6 +237,10 @@
 ### 결제
 
 <img src="./gif/결제%20시퀀스%20다이어그램.png" alt="결제" width="400px" />
+
+## 와이어프레임
+
+<img src="./gif/와이어프레임.png" alt="와이어프레임" width="600px" height="600px" />
 
 ## 디렉토리 구조
 
